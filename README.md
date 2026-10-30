@@ -1,42 +1,33 @@
-# Noman Tahir (Nomi)
+# Noman Tahir Bhatti (Nomi)
 
-Software engineer and builder based in Lahore, Pakistan (UTC+5).  
-Focused on high-performance frontend engineering, interactive web experiences, and scalable web applications.
+Senior Front-End Engineer based in Lahore, Pakistan (UTC+5).  
+Specializing in React, TypeScript, scalable design systems, and interactive Web3 / AI-driven user interfaces.
 
-🌐 **Website & Portfolio:** [nomibuilds.dev](https://nomibuilds.dev)  
-📫 **Direct Contact:** [contact@nomibuilds.dev](mailto:contact@nomibuilds.dev)
+🌐 **Website:** [nomibuilds.dev](https://nomibuilds.dev)  
+💼 **LinkedIn:** [linkedin.com/in/noman-tahir](https://www.linkedin.com/in/noman-tahir/)  
+📫 **Direct Contact:** [contact@nomibuilds.dev](mailto:contact@nomibuilds.dev) · [nomanlhr11@gmail.com](mailto:nomanlhr11@gmail.com)
 
 ---
 
 ### 🛠️ Core Engineering Arsenal
 
-- **Frontend & Creative Web:** TypeScript, React, Next.js, Tailwind CSS, GSAP, Three.js / WebGL
-- **Backend & APIs:** Node.js, REST APIs, GraphQL, PostgreSQL / Prisma, Supabase
-- **DevOps & Edge:** Cloudflare (Workers, Pages, DNS), Vercel, Docker, Git
+* **Frontend & Architecture:** React.js, Next.js, Vue.js, TypeScript, JavaScript (ES6+), Web Components
+* **Styling & Motion:** Tailwind CSS, CSS3/SCSS, GSAP, Responsive Design Systems, UI/UX Principles
+* **AI & Web3 Engineering:** AI-Driven UX Integration, Prompt Engineering, Web3 Integration (MetaMask & Phantom SDKs)
+* **Tooling & Workflow:** REST APIs, GraphQL, Vite/Webpack, Git, CI/CD, Agile/Scrum
 
 ---
 
-### 🚀 What I'm Focused On
+### 🚀 Current Focus
 
-- 🏗️ Building and shipping indie SaaS products in public at [nomibuilds.dev](https://nomibuilds.dev)
-- ⚡ Crafting sub-second, 60 FPS interactive web experiences using GSAP and Three.js
-- 🤖 Integrating practical AI automation and LLM pipelines into clean web interfaces
-
----
-
-### 📌 Featured Builds
-
-| Project | Description | Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **Project One** | Short 1-line description of the problem it solves and real outcome. | Next.js, TypeScript, Tailwind | [Live Demo](#) · [Source](#) |
-| **Project Two** | High-performance interactive dashboard or micro-SaaS tool. | React, Node.js, PostgreSQL | [Live Demo](#) · [Source](#) |
-| **Project Three** | WebGL / 3D interactive experimentation and shader playground. | Three.js, GSAP, R3F | [Live Demo](#) · [Source](#) |
+* Architecting sub-second, fluid web applications and creative frontend experiences
+* Integrating generative AI interfaces and decentralized protocol interactions
+* Building indie tools and engineering solutions in public at [nomibuilds.dev](https://nomibuilds.dev)
 
 ---
 
-### 📬 Connect With Me
+### 📬 Connect
 
-- **Portfolio:** [nomibuilds.dev](https://nomibuilds.dev)
-- **LinkedIn:** [linkedin.com/in/nomantahirbhatti](https://linkedin.com) *(Update with your exact URL)*
-- **X / Twitter:** [@yourhandle](#)
-- **Email:** [contact@nomibuilds.dev](mailto:contact@nomibuilds.dev)
+* **Portfolio:** [nomibuilds.dev](https://nomibuilds.dev)
+* **LinkedIn:** [linkedin.com/in/noman-tahir](https://www.linkedin.com/in/noman-tahir/)
+* **Email:** [contact@nomibuilds.dev](mailto:contact@nomibuilds.dev)
