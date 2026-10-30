@@ -5,7 +5,7 @@ Specializing in React, TypeScript, scalable design systems, and interactive Web3
 
 🌐 **Website:** [nomibuilds.dev](https://nomibuilds.dev)  
 💼 **LinkedIn:** [linkedin.com/in/noman-tahir](https://www.linkedin.com/in/noman-tahir/)  
-📫 **Direct Contact:** [contact@nomibuilds.dev](mailto:contact@nomibuilds.dev) · [nomanlhr11@gmail.com](mailto:nomanlhr11@gmail.com)
+📫 **Direct Contact:** [contact@nomibuilds.dev](mailto:contact@nomibuilds.dev) · [nomantahirbhatti@gmail.com](mailto:nomantahirbhatti@gmail.com)
 
 ---
 
